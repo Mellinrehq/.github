@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mellinre-logo.png" alt="Mellinre Logo" width="85" style="vertical-align: middle;"/>
+  <img src="./profile/mellinre-logo.png" alt="Mellinre Logo" width="85" style="vertical-align: middle;"/>
 </p>
 
 <h1 align="center">Mellinre</h1>
