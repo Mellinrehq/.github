@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Mellinrehq/.github/blob/main/profile/logo.png" alt="Mellinre Logo" width="70" />
-  <span style="font-size: 36px; font-weight: 700; margin-left: 10px;">Mellinre</span>
+  <img src="./profile/mellinre-logo.png" alt="Mellinre Logo" width="70" />
+  <span style="font-size: 36px; font-weight: 700; margin-left: 10px;">ellinre</span>
 </p>
 
 <p align="center">
